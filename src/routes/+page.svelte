@@ -80,4 +80,21 @@
 	]}
 />
 <AboutTeaser />
-<CallToAction />
+<CallToAction
+	title="Get your working AI prototype in two weeks"
+	subtitle="You're one call away from seeing real results"
+	description="No long contracts. No AI hype. Just a better product, faster. CTOs at Series A–C companies trust us to deliver production-grade AI that actually works—without building an in-house ML team."
+	imageSrc="/generated/image-editorial-corporate-portrait-of-a-confid.webp"
+	callsToAction={[
+		{
+			href: "/",
+			label: "Start your prototype",
+			variant: "primary"
+		},
+		{
+			href: "/",
+			label: "Talk to our team",
+			variant: "secondary"
+		}
+	]}
+/>
