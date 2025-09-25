@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-09-25T11:30:40.287Z -->
+<!-- Updated: 2025-09-25T11:32:28.568Z -->
 
 # Current Todo List State
 
@@ -11,3 +11,8 @@
 - [x] Update +page.svelte to import and use CenteredTextOnlyHero
 - [x] Verify implementation follows brand style requirements
 - [x] Run comprehensive error check and fix all issues
+- [x] Call update_brand_variables to generate and apply brand variables
+- [x] Update app.html to set data-theme='dark' for dark mode implementation
+- [x] Update theme.css to enable dark mode styling blocks
+- [x] Update lib/content/index.ts with Neuve AI company metadata and configuration
+- [x] Run comprehensive error check to verify implementation
