@@ -25,43 +25,40 @@
 />
 
 <Summary
-	generating
 	title="What we do"
 	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
+			name: "Maya Chen",
 			position: "CTO",
-			company: "Tech Innovations",
+			company: "Velocity Labs",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Neuve AI reduced our AI implementation timeline from 8 months to 6 weeks. Their prototype-first approach saved us $400K in development costs and eliminated the risk of hiring an entire ML team we weren't ready for.",
+			image: "/generated/image-professional-head-and-shoulders-portrait.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Williams",
+			position: "VP of Engineering",
+			company: "Streamline Dynamics",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We avoided the 18-month hiring process for senior ML engineers entirely. Neuve AI delivered a working AI system in 2 weeks that would have taken our team 6 months to build, if we could have built it at all.",
+			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Sofia Rodriguez",
+			position: "Head of Product",
+			company: "Nexus Systems",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The ROI was immediate—their AI integration increased user engagement by 67% in the first month. We went from concept to production without the typical AI expertise bottleneck that kills most projects.",
+			image: "/generated/image-professional-headshot-of-a-confident-lat.webp"
 		}
 	]}
 />
 
 <Features
-	generating
 	title="Features"
 	subtitle="Some features"
 	features={[
@@ -82,5 +79,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Get your working AI prototype in two weeks"
+	subtitle="You're one call away from seeing real results"
+	description="No long contracts. No AI hype. Just a better product, faster. CTOs at Series A–C companies trust us to deliver production-grade AI that actually works—without building an in-house ML team."
+	imageSrc="/generated/image-editorial-corporate-portrait-of-a-confid.webp"
+	callsToAction={[
+		{
+			href: "/",
+			label: "Start your prototype",
+			variant: "primary"
+		},
+		{
+			href: "/",
+			label: "Talk to our team",
+			variant: "secondary"
+		}
+	]}
+/>

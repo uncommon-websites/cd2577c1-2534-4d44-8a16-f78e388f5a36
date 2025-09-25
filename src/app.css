@@ -6,6 +6,7 @@
 @import "./theme.css";
 
 @theme {
+<<<<<<< HEAD
 /* Colors */
 --color-gray-50: oklch(0.985 0 0);
 --color-gray-100: oklch(0.97 0 0);
@@ -41,6 +42,64 @@
 --color-secondary-900: oklch(0.408 0.123 38.172);
 --color-secondary-950: oklch(0.266 0.079 36.259);
 
+=======
+/* Neuve AI Brand Colors */
+/* Primary Colors: #FFFFFF, #000000, #0C0F12 */
+--color-white: oklch(1 0 0);
+--color-black: oklch(0 0 0);
+--color-dark-primary: oklch(0.1 0 0);
+
+/* Secondary Colors: #F3F4F6, #1A1D23 */
+--color-light-secondary: oklch(0.96 0 0);
+--color-dark-secondary: oklch(0.15 0 0);
+
+/* Accent Colors: #FF5A00, #4EA1F3, #0ECC8D, #A254FF, #FFBA08 */
+--color-accent-orange: oklch(0.67 0.15 35);
+--color-accent-blue: oklch(0.68 0.13 250);
+--color-accent-green: oklch(0.75 0.14 160);
+--color-accent-purple: oklch(0.58 0.16 290);
+--color-accent-yellow: oklch(0.8 0.12 85);
+
+/* Gray Scale System */
+--color-gray-50: oklch(0.985 0 0);
+--color-gray-100: oklch(0.96 0 0);
+--color-gray-200: oklch(0.922 0 0);
+--color-gray-300: oklch(0.87 0 0);
+--color-gray-400: oklch(0.708 0 0);
+--color-gray-500: oklch(0.556 0 0);
+--color-gray-600: oklch(0.439 0 0);
+--color-gray-700: oklch(0.371 0 0);
+--color-gray-800: oklch(0.269 0 0);
+--color-gray-900: oklch(0.205 0 0);
+--color-gray-950: oklch(0.1 0 0);
+
+/* Primary Brand System (Black/White) */
+--color-primary-50: oklch(0.985 0 0);
+--color-primary-100: oklch(0.97 0 0);
+--color-primary-200: oklch(0.922 0 0);
+--color-primary-300: oklch(0.87 0 0);
+--color-primary-400: oklch(0.708 0 0);
+--color-primary-500: oklch(0.556 0 0);
+--color-primary-600: oklch(0.1 0 0); /* Brand black */
+--color-primary-700: oklch(0.08 0 0);
+--color-primary-800: oklch(0.06 0 0);
+--color-primary-900: oklch(0.04 0 0);
+--color-primary-950: oklch(0.02 0 0);
+
+/* Secondary Accent System (Orange as primary accent) */
+--color-secondary-50: oklch(0.95 0.02 35);
+--color-secondary-100: oklch(0.9 0.04 35);
+--color-secondary-200: oklch(0.85 0.06 35);
+--color-secondary-300: oklch(0.8 0.08 35);
+--color-secondary-400: oklch(0.75 0.1 35);
+--color-secondary-500: oklch(0.7 0.12 35);
+--color-secondary-600: oklch(0.67 0.15 35); /* Brand orange #FF5A00 */
+--color-secondary-700: oklch(0.6 0.13 35);
+--color-secondary-800: oklch(0.5 0.11 35);
+--color-secondary-900: oklch(0.4 0.09 35);
+--color-secondary-950: oklch(0.3 0.07 35);
+
+>>>>>>> 206e5f66ece5a96fe31494f4eb1af53a24a1c868
 /* Typography */
 --font-family: "Inter";
 --font-fallback: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
