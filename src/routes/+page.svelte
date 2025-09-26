@@ -59,23 +59,23 @@
 />
 
 <Features
-	title="Features"
-	subtitle="Some features"
+	title="Agentic browsing capabilities"
+	subtitle="AI that learns, adapts, and acts on your behalf"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "Pattern Learning",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Neuve observes your browsing habits and learns your unique workflow patterns to provide increasingly personalized assistance over time."
 		},
 		{
-			title: "Data Analysis",
+			title: "Proactive Task Completion",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Your browser anticipates your needs and completes routine tasks automatically, from form filling to research compilation, saving hours every week."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Privacy-First AI",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"All AI processing happens on-device with zero-logging architecture. Your browsing patterns and personal data never leave your iPhone."
 		}
 	]}
 />
