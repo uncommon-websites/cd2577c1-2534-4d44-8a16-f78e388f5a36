@@ -1,58 +1,60 @@
 export const CONFIG = {
-	companyName: "Neuve AI",
-<<<<<<< HEAD
-	description: "AI-native applications that deliver personalized software experiences, built from the ground up for mid-market companies seeking to integrate AI without the complexity",
+	companyName: "Neuve",
+	description: "The first truly agentic mobile browser that transforms browsing into personalized assistance. AI that learns your patterns and proactively completes tasks.",
 	image: "/og.png",
 	url: "https://neuve.ai",
-	fontFamily: "Inter Variable"
-=======
-	description: "Personalized AI-native software experiences that adapt to individual users. We help Series A-C startups integrate AI capabilities without hiring specialized ML teams.",
-	image: "/og.png",
-	url: "https://neuveai.com",
 	fontFamily: "Inter Variable",
-	tagline: "AI-native applications built from the ground up",
-	industry: "AI Consulting & Development",
-	targetAudience: "CTOs at Series A-C startups",
-	businessModel: "AI system optimization and consumer applications",
-	marketSize: "$394B AI services market",
-	brandPersonality: "Premium, sophisticated, technical authority with innovative edge",
-	themeMode: "dark", // Strategic choice for tech-savvy CTO audience
+	tagline: "Mobile browsing, reimagined with agentic AI",
+	industry: "Mobile Browser & AI Technology",
+	targetAudience: "iOS power users and tech enthusiasts",
+	businessModel: "Mobile browser with agentic AI assistance",
+	marketSize: "$180B mobile browser market",
+	brandPersonality: "Innovative, privacy-focused, sophisticated with Apple-like attention to detail",
+	themeMode: "dark", // Matches tech-savvy early adopter audience
 	
 	// Brand Values & Positioning
-	valueProposition: "Ship working AI prototypes within two weeks without hiring specialized ML teams",
-	differentiator: "Combines deep technical implementation expertise with consumer product intuition",
-	competitiveAdvantage: "AI-native approach from ground up vs retrofitting existing solutions",
+	valueProposition: "Transform mobile browsing into personalized assistance with AI that learns and acts",
+	differentiator: "First truly agentic mobile browsing experience built from the ground up",
+	competitiveAdvantage: "On-device processing with zero-logging architecture for maximum privacy",
 	
 	// Target Market Details  
-	idealCustomer: "CTOs at Series A-C companies seeking to integrate AI into core products",
+	idealCustomer: "Privacy-conscious iOS power users seeking personalized mobile workflows",
 	painPoints: [
-		"Months of engineering resources required for AI implementation",
-		"Deep AI expertise lacking in-house",
-		"Skepticism about consultants delivering value",
-		"Need for rapid prototyping and validation"
+		"Current browsers treat users like generic users with static bookmarks",
+		"Mobile browsing lacks personalization and proactive assistance",
+		"Privacy concerns with AI-powered browsing solutions",
+		"Inefficient mobile workflows and repetitive tasks"
 	],
 	
 	// Go-to-Market Strategy
-	distributionChannels: "AI engineering Slack communities",
-	proofStrategy: "Working prototypes within two weeks",
+	distributionChannels: "Apple-focused forums and Mastodon instances",
+	proofStrategy: "On-device processing and zero-logging architecture",
 	
 	// Business Model
 	revenueStreams: [
-		"B2B AI consulting services",
-		"AI system development and optimization", 
-		"AI system scaling solutions",
-		"B2C consumer-facing applications"
+		"Premium mobile browser subscriptions",
+		"Advanced AI features and personalization",
+		"Enterprise mobile browsing solutions"
 	],
 	
 	// Brand Inspiration & Competitive Context
-	brandInspiration: ["Replit", "Vercel"],
+	brandInspiration: ["Rewind", "Nothing"],
 	competitors: [
-		"Avanade", "Slalom", "Publicis Sapient", 
-		"Fractal Analytics", "Quantiphi"
+		"Arc Browser", "Opera Browser", "Microsoft Edge", 
+		"Brave Browser", "SigmaOS"
 	],
 	
 	// Growth Metrics
-	targetARR: "$50M",
-	addressableMarket: "$394B AI services market"
->>>>>>> 206e5f66ece5a96fe31494f4eb1af53a24a1c868
+	targetUsers: "50M active users",
+	addressableMarket: "$180B mobile browser market",
+	
+	// Product Details
+	platform: "iOS (starting with power users)",
+	keyFeatures: [
+		"Agentic AI that learns user patterns",
+		"Proactive task completion",
+		"On-device processing for privacy",
+		"Zero-logging architecture",
+		"Personalized mobile workflows"
+	]
 };
