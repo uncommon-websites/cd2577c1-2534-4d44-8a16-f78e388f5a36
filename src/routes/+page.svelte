@@ -10,8 +10,8 @@
 </script>
 
 <CenteredTextOnlyHero
-	title="Software that adapts to every user"
-	subtitle="We build smarter systems from the ground up so your product feels like it was made for each customer—because it is."
+	title="Mobile browsing, reimagined"
+	subtitle="The first truly agentic browser that learns your patterns and proactively completes tasks. Transform your iPhone into a personalized web assistant."
 	imageSrc="/generated/image-lifestyle-editorial-photo-candid-moment-.webp"
 />
 <LogoScroller 
@@ -32,27 +32,27 @@
 <Testimonials
 	testimonials={[
 		{
-			name: "Maya Chen",
-			position: "CTO",
-			company: "Velocity Labs",
+			name: "Alex Chen",
+			position: "iOS Developer",
+			company: "Tech Enthusiast",
 			quote:
-				"Neuve AI reduced our AI implementation timeline from 8 months to 6 weeks. Their prototype-first approach saved us $400K in development costs and eliminated the risk of hiring an entire ML team we weren't ready for.",
+				"Neuve completely changed how I browse on my iPhone. It learns my workflow patterns and actually completes tasks before I even think to do them. The privacy-first approach with on-device processing is exactly what power users have been waiting for.",
 			image: "/generated/image-professional-head-and-shoulders-portrait.webp"
 		},
 		{
-			name: "Marcus Williams",
-			position: "VP of Engineering",
-			company: "Streamline Dynamics",
+			name: "Jordan Martinez",
+			position: "Product Designer",
+			company: "Early Adopter",
 			quote:
-				"We avoided the 18-month hiring process for senior ML engineers entirely. Neuve AI delivered a working AI system in 2 weeks that would have taken our team 6 months to build, if we could have built it at all.",
+				"Finally, a mobile browser that doesn't treat me like every other user. Neuve's agentic AI understands my research patterns and proactively surfaces relevant information. It's like having a personal assistant built into my browser.",
 			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
 		},
 		{
-			name: "Sofia Rodriguez",
-			position: "Head of Product",
-			company: "Nexus Systems",
+			name: "Taylor Kim",
+			position: "Privacy Advocate",
+			company: "Tech Community",
 			quote:
-				"The ROI was immediate—their AI integration increased user engagement by 67% in the first month. We went from concept to production without the typical AI expertise bottleneck that kills most projects.",
+				"I was skeptical about AI in browsers until I tried Neuve. The zero-logging architecture and on-device processing mean I get personalized assistance without sacrificing privacy. This is the future of mobile browsing.",
 			image: "/generated/image-professional-headshot-of-a-confident-lat.webp"
 		}
 	]}

@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-09-26T14:25:51.791Z -->
+<!-- Updated: 2025-09-26T14:26:24.556Z -->
 
 # Current Todo List State
 
@@ -34,8 +34,8 @@
 - [x] Verify the about page flows well without these sections
 - [x] Run comprehensive error check to ensure no broken references
 - [x] Update CONFIG file to reflect Neuve mobile browser product details
-- [ ] Update hero section with mobile browsing transformation messaging
-- [ ] Create new testimonials from iOS power users and tech enthusiasts
+- [x] Update hero section with mobile browsing transformation messaging
+- [x] Create new testimonials from iOS power users and tech enthusiasts
 - [ ] Update features section to focus on agentic AI browsing capabilities
 - [ ] Update summary section to reflect mobile browser value proposition
 - [ ] Update call-to-action section for mobile browser download/waitlist
