@@ -12,7 +12,7 @@
 <CenteredTextOnlyHero
 	title="Mobile browsing, reimagined"
 	subtitle="The first truly agentic browser that learns your patterns and proactively completes tasks. Transform your iPhone into a personalized web assistant."
-	imageSrc="/generated/image-lifestyle-editorial-photo-candid-moment-.webp"
+	imageSrc="/generated/image-a-candid-documentary-style-photo-of-a-fo.webp"
 />
 <LogoScroller 
 	label="Trusted by industry leaders"
@@ -25,8 +25,8 @@
 />
 
 <Summary
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="The future of mobile browsing"
+	text="Neuve transforms your iPhone into an intelligent web companion that learns your patterns, anticipates your needs, and completes tasks proactively—all while keeping your data completely private with on-device processing."
 />
 
 <Testimonials
@@ -81,19 +81,19 @@
 />
 <AboutTeaser />
 <CallToAction
-	title="Get your working AI prototype in two weeks"
-	subtitle="You're one call away from seeing real results"
-	description="No long contracts. No AI hype. Just a better product, faster. CTOs at Series A–C companies trust us to deliver production-grade AI that actually works—without building an in-house ML team."
-	imageSrc="/generated/image-editorial-corporate-portrait-of-a-confid.webp"
+	title="Join the future of mobile browsing"
+	subtitle="Be among the first to experience agentic AI browsing"
+	description="Neuve is launching soon for iOS power users. Join our exclusive waitlist to get early access to the first truly intelligent mobile browser that learns your patterns and works proactively on your behalf."
+	imageSrc="/generated/image-a-candid-image-of-a-diverse-small-group-.webp"
 	callsToAction={[
 		{
 			href: "/",
-			label: "Start your prototype",
+			label: "Join the waitlist",
 			variant: "primary"
 		},
 		{
 			href: "/",
-			label: "Talk to our team",
+			label: "Learn more",
 			variant: "secondary"
 		}
 	]}
