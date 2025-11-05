@@ -38,31 +38,30 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Keiko Tanaka",
+			position: "Senior iOS Engineer",
+			company: "Notion",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Neuve saves me 2 hours daily by automatically handling my recurring web tasks. I used to manually check 12 sites every morning, now my browser just shows me what matters.",
+			image: "/generated/image-candid-documentary-style-photo-of-a-prof.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Thompson",
+			position: "Product Lead",
+			company: "Linear",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The on-device processing means my browsing patterns never leave my phone. I switched from Chrome when I realized how much of my workflow data was being collected.",
+			image: "/generated/image-documentary-style-image-of-a-middle-aged.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Sofia Ramirez",
+			position: "Founder",
+			company: "Indie Developer",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Neuve reduced my context switching by 60%. Instead of opening 8 tabs to research something, it proactively surfaces related content as I browse. Game changer for solo founders.",
+			image: "/generated/image-candid-photo-of-a-young-hispanic-woman-e.webp"
 		}
 	]}
 />
