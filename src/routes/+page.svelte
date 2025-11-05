@@ -7,6 +7,14 @@
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
 	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
+
+	// Icons
+	import IconBrain from "~icons/lucide/brain";
+	import IconShield from "~icons/lucide/shield";
+	import IconWorkflow from "~icons/lucide/workflow";
+	import IconZap from "~icons/lucide/zap";
+	import IconSparkles from "~icons/lucide/sparkles";
+	import IconSmartphone from "~icons/lucide/smartphone";
 </script>
 
 <CenteredTextOnlyHero
@@ -60,24 +68,44 @@
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Built for how you actually browse"
+	subtitle="Neuve isn't just smarter—it's designed to anticipate, adapt, and act on your behalf, transforming mobile browsing from reactive to proactive."
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "Proactive intelligence",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Neuve learns your browsing patterns and anticipates your needs before you search. Your browser completes tasks while you focus on what matters.",
+			icon: IconBrain
 		},
 		{
-			title: "Data Analysis",
+			title: "On-device privacy",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"All AI processing happens locally on your iPhone with zero-logging architecture. Your data stays yours, never shared or stored in the cloud.",
+			icon: IconShield
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Adaptive workflows",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Dynamic shortcuts evolve with your habits, replacing static bookmarks with intelligent suggestions that adapt to your context and time of day.",
+			icon: IconWorkflow
+		},
+		{
+			title: "Seamless task automation",
+			description:
+				"Automate repetitive mobile browsing tasks from form filling to multi-step searches. Neuve handles the busy work so you don't have to.",
+			icon: IconZap
+		},
+		{
+			title: "Context-aware assistance",
+			description:
+				"Your browser understands what you're trying to accomplish and surfaces relevant tools, content, and actions at exactly the right moment.",
+			icon: IconSparkles
+		},
+		{
+			title: "Built for iOS first",
+			description:
+				"Native iOS experience designed from the ground up for mobile, not a desktop browser retrofit. Fast, fluid, and feels like it belongs on your iPhone.",
+			icon: IconSmartphone
 		}
 	]}
 />
