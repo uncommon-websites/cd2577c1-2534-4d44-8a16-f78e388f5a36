@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-11-05T20:41:11.665Z -->
+<!-- Updated: 2025-11-05T20:43:24.684Z -->
 
 # Current Todo List State
 
@@ -7,4 +7,8 @@
 - [x] Update +page.svelte to import CenteredTextOnlyHero component
 - [x] Replace Hero component with CenteredTextOnlyHero and update copy for Neuve
 - [x] Remove generating prop from CenteredTextOnlyHero
+- [x] Run comprehensive error check and fix all issues
+- [x] Update lib/content/index.ts with Neuve brand variables
+- [x] Update app.html data-theme to dark
+- [x] Uncomment dark mode block in theme.css
 - [x] Run comprehensive error check and fix all issues
