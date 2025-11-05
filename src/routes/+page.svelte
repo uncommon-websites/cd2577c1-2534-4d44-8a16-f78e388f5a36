@@ -25,9 +25,8 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="Built for power users"
+	text="Neuve is an AI-powered mobile browser that learns from your browsing patterns and proactively completes tasks before you even ask. We serve iOS power users who demand personalized workflows and privacy-first technology. Unlike traditional browsers with static features, Neuve adapts to you, saving hours every week through intelligent automation that runs entirely on your device."
 />
 
 <Testimonials
