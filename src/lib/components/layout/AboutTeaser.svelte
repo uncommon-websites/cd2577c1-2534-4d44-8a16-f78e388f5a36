@@ -21,9 +21,9 @@ A minimalist teaser for the about page.
 
 	// Data
 	const teamMember: TeamMember = {
-		name: "Alex Morgan",
-		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		name: "Vinicius",
+		role: "Founder",
+		image: "/generated/image-a-candid-documentary-style-photograph-of.webp"
 	};
 </script>
 
@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"I've watched the web evolve before and after the iPhone. Now, we're at another inflection point—where browsers stop being passive tools and start being proactive partners. That's the generative web we're building."`}
 			/>
 
 			<!-- Team Member & CTA Section -->

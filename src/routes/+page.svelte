@@ -108,5 +108,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Join the waitlist"
+	subtitle="Early access starts this spring"
+	description="Neuve is launching soon for iOS power users who refuse to compromise on privacy. Join 2,000+ early adopters getting first access to the browser that learns your workflow without sending data to the cloud. Your browsing patterns stay on your device, always."
+	imageSrc="/generated/image-a-candid-documentary-style-photograph-of.webp"
+	callsToAction={[
+		{
+			href: "/",
+			label: "Get early access",
+			variant: "primary"
+		},
+		{
+			href: "/about",
+			label: "Learn more",
+			variant: "secondary"
+		}
+	]}
+/>
